@@ -1,0 +1,3336 @@
+{
+  "edits": {
+    "bids_2026": {
+      "bids_2026#11": {
+        "outcome": "Pending",
+        "projectType": "Religious",
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "amount": 185228
+      },
+      "bids_2026#0": {
+        "projectType": "Bank / Financial",
+        "owner": "Canyon View Credit Union",
+        "ord": 0,
+        "monthlyGC": 26804,
+        "feePct": 0.06,
+        "contingencyPct": 0.0143,
+        "sf": 3702,
+        "costPerSf": 717.01,
+        "avgBids": 3.3,
+        "gcsBidding": 3,
+        "duration": "6 Months",
+        "constrType": "New Branch",
+        "debriefNotes": "Headwaters Constr. Won this!",
+        "debriefReason": "Price — we were high",
+        "competitor": "Headwaters Construction",
+        "winningAmount": null,
+        "debriefDate": "2026-08-06"
+      },
+      "bids_2026#1": {
+        "projectType": "Tilt-Up Concrete Building",
+        "owner": "Gerrity Repta (Motorsport)",
+        "type": "Hard Bid",
+        "ord": 1,
+        "monthlyGC": 27523,
+        "feePct": 0.05,
+        "contingencyPct": 0.0172,
+        "sf": 22440,
+        "costPerSf": 149.56,
+        "avgBids": 3.3,
+        "gcsBidding": 4,
+        "duration": "5 Months",
+        "constrType": "Tilt up warehouse for tires and car repair business",
+        "debriefReason": "Other",
+        "competitor": "",
+        "winningAmount": null,
+        "debriefNotes": "",
+        "debriefDate": "2026-08-06"
+      },
+      "bids_2026#2": {
+        "projectType": "Religious",
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "type": "Hard Bid",
+        "ord": 2,
+        "monthlyGC": 14733,
+        "feePct": 0.18,
+        "contingencyPct": 0.0363,
+        "gcsBidding": 4,
+        "duration": "1 Month",
+        "constrType": "Random Interior Repairs",
+        "debriefNotes": "Never heard either way",
+        "debriefReason": "Never got feedback",
+        "competitor": "Unkown",
+        "winningAmount": null,
+        "debriefDate": "2026-08-06"
+      },
+      "bids_2026#4": {
+        "projectType": "Religious",
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "ord": 4,
+        "monthlyGC": 19451,
+        "feePct": 0.1,
+        "contingencyPct": 0.0168,
+        "avgBids": 2.2,
+        "gcsBidding": 3,
+        "duration": "3 Months",
+        "constrType": "Generator Replacement",
+        "debriefNotes": "Layton won, was third out of four",
+        "amount": 477010,
+        "altAmount": null
+      },
+      "bids_2026#9": {
+        "projectType": "Shell",
+        "owner": "Development Management Associates",
+        "ord": 9,
+        "outcome": "Lost",
+        "notes": "We were told that we were 300,000 Higher than the low..."
+      },
+      "bids_2026#10": {
+        "projectType": "Religious",
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "notes": "2 GC's. Garrett told Dan we won by a long shot",
+        "ord": 10,
+        "monthlyGC": 7720,
+        "feePct": 0.09,
+        "contingencyPct": 0.033,
+        "sf": 2512,
+        "costPerSf": 90.36,
+        "avgBids": 2.11,
+        "gcsBidding": 2,
+        "duration": "1 Month",
+        "constrType": "Refresh of the ticket office and offices at conference center"
+      },
+      "bids_2026#3": {
+        "owner": "Salas O'Brien",
+        "ord": 3,
+        "monthlyGC": 39706,
+        "feePct": 0.1,
+        "contingencyPct": 0.0096,
+        "avgBids": 1.62,
+        "gcsBidding": 3,
+        "duration": "4 Months",
+        "constrType": "Oxygen Generator Tank Replacement",
+        "debriefNotes": "Too big of a spread",
+        "amount": 1140893,
+        "altAmount": null
+      },
+      "bids_2026#5": {
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "ord": 5,
+        "monthlyGC": 32652,
+        "feePct": 0.12,
+        "contingencyPct": 0.0461,
+        "gcsBidding": 4,
+        "duration": "2 Months",
+        "constrType": "Interior Touch ups and conference room freshen ups"
+      },
+      "bids_2026#6": {
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "ord": 6,
+        "monthlyGC": 23323,
+        "feePct": 0.15,
+        "contingencyPct": 0.0594,
+        "gcsBidding": 4,
+        "duration": "3.5 Months",
+        "constrType": "Compressor Remodel",
+        "debriefNotes": "We were way higher",
+        "amount": 319919,
+        "altAmount": null
+      },
+      "bids_2026#7": {
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "ord": 7,
+        "monthlyGC": 9743,
+        "feePct": 0.06,
+        "contingencyPct": 0,
+        "gcsBidding": 4,
+        "duration": "6 Months",
+        "constrType": "Temp Path for Tour of temple grounds",
+        "debriefNotes": "4-5% spread"
+      },
+      "bids_2026#8": {
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "ord": 8,
+        "monthlyGC": 13553,
+        "feePct": 0.06,
+        "contingencyPct": 0,
+        "gcsBidding": 4,
+        "duration": "4 Months",
+        "constrType": "Part of 2027 Temple Open House",
+        "debriefNotes": "4-5% Spread"
+      }
+    },
+    "partners": {
+      "partners#376": {
+        "div": 32,
+        "divName": "Exterior Improvements",
+        "trade": "Asphalt Striping",
+        "perf": null,
+        "scopes": [
+          {
+            "div": 32,
+            "trade": "Asphalt Striping"
+          }
+        ]
+      },
+      "partners#85": {
+        "scopes": [
+          {
+            "div": 5,
+            "trade": "Steel Fabrication"
+          }
+        ],
+        "trade": "Steel Fabrication"
+      },
+      "partners#697": {
+        "scopes": [
+          {
+            "div": 1,
+            "trade": "Survey & Engineering"
+          }
+        ],
+        "div": 1,
+        "divName": "General Requirements",
+        "trade": "Survey & Engineering"
+      },
+      "partners#950": {
+        "lastContact": "2026-07-27"
+      }
+    },
+    "contracted": {
+      "contracted#0": {
+        "projectType": "Office",
+        "source": "CMGC / Negotiated"
+      },
+      "contracted#1": {
+        "projectType": "Luxury Custom Home Remodel",
+        "source": "CMGC / Negotiated"
+      },
+      "contracted#2": {
+        "projectType": "Civic / Government"
+      },
+      "contracted#4": {
+        "projectType": "Tenant Improvement",
+        "source": "CMGC / Negotiated"
+      },
+      "contracted#6": {
+        "amount": 8598278,
+        "projectType": "Civic / Government"
+      },
+      "contracted#3": {
+        "amount": 3661150,
+        "earnedRev": 3661150
+      }
+    },
+    "gc": {
+      "gc#0": {
+        "gcsBidding": 3
+      },
+      "gc#1": {
+        "gcsBidding": 4
+      },
+      "gc#2": {
+        "gcsBidding": 4
+      },
+      "gc#3": {
+        "gcsBidding": 3
+      },
+      "gc#4": {
+        "gcsBidding": 3
+      },
+      "gc#11": {
+        "gcsBidding": 3,
+        "cost": 185228,
+        "monthlyGC": 17663,
+        "fee": 0.12,
+        "contingencyPct": 0.0259,
+        "avgBids": 1.75,
+        "outcome": "Lost",
+        "sf": null,
+        "costPerSf": null
+      },
+      "gc#10": {
+        "gcsBidding": 2
+      },
+      "gc#9": {
+        "outcome": "Lost"
+      }
+    },
+    "financials": {
+      "financials#3": {
+        "revenue": 4500000
+      }
+    },
+    "superintendents": {
+      "superintendents#3": {
+        "name": "Justin Ignia"
+      },
+      "superintendents#0": {
+        "name": "Brady Miller"
+      },
+      "superintendents#1": {
+        "name": "Bridger Green",
+        "multi": true
+      },
+      "superintendents#2": {
+        "name": "Jim Douglas"
+      },
+      "superintendents#5": {
+        "name": "Dave Swisher"
+      },
+      "superintendents#6": {
+        "name": "Kameron Kaye"
+      }
+    },
+    "pmProjects": {
+      "pmProjects#4": {
+        "pm": "Brandt Knowlton",
+        "super": "",
+        "status": "Preconstruction",
+        "start": "2026-08-17",
+        "end": "2027-04-30"
+      },
+      "pmProjects#3": {
+        "super": "Justin Ignia",
+        "pm": "Steve Southwick",
+        "status": "Active",
+        "start": "2026-03-20",
+        "end": "2027-12-15",
+        "value": 15000000,
+        "pct": 3,
+        "milestones": [
+          {
+            "name": "Notice to Proceed",
+            "date": "",
+            "status": "Not Started",
+            "notes": ""
+          },
+          {
+            "name": "Mobilization",
+            "date": "",
+            "status": "Not Started",
+            "notes": ""
+          },
+          {
+            "name": "Foundations",
+            "date": "",
+            "status": "Not Started",
+            "notes": ""
+          },
+          {
+            "name": "Structure",
+            "date": "",
+            "status": "Not Started",
+            "notes": ""
+          },
+          {
+            "name": "Dry-in",
+            "date": "",
+            "status": "Not Started",
+            "notes": ""
+          },
+          {
+            "name": "MEP Rough-ins",
+            "date": "",
+            "status": "Not Started",
+            "notes": ""
+          },
+          {
+            "name": "Finishes",
+            "date": "",
+            "status": "Not Started",
+            "notes": ""
+          },
+          {
+            "name": "Substantial Completion",
+            "date": "",
+            "status": "Not Started",
+            "notes": ""
+          },
+          {
+            "name": "Final Inspection",
+            "date": "",
+            "status": "Not Started",
+            "notes": ""
+          },
+          {
+            "name": "Closeout",
+            "date": "",
+            "status": "Not Started",
+            "notes": ""
+          }
+        ]
+      }
+    },
+    "active": {
+      "active#0": {
+        "due": "2026-07-14",
+        "duration": "3 Months",
+        "nextStep": "Receive Bids",
+        "gcsBidding": 3,
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "projectType": "Religious",
+        "submitted": 185228,
+        "status": "Submitted",
+        "section": "submitted",
+        "project": "JSMB Chapel Wheelchair Ramp Project"
+      },
+      "active#2": {
+        "gcsBidding": 3
+      },
+      "active#3": {
+        "gcsBidding": 3,
+        "owner": "Development Management Associates",
+        "projectType": "Shell",
+        "nextStep": "Follow up with Kevin"
+      },
+      "active#6": {
+        "owner": "Ron Wilde",
+        "projectType": "Office",
+        "assignee": "Dan Chambers",
+        "nextStepAt": "2026-07-27",
+        "nextStep": "Trying to get in touch with the Architect."
+      },
+      "active#7": {
+        "owner": "El Matador",
+        "projectType": "Restaurant / Food Service",
+        "nextStep": "Continuing Negotiations.",
+        "assignee": "Dan Chambers",
+        "nextStepAt": "2026-08-10"
+      },
+      "active#8": {
+        "owner": "MCCS",
+        "projectType": "Civic / Government",
+        "budget": 2500000
+      }
+    },
+    "bids_2023": {
+      "bids_2023#3": {
+        "projectType": "Car Wash",
+        "owner": "Mister Carwash",
+        "type": "Hard Bid"
+      },
+      "bids_2023#5": {
+        "projectType": "Multifamily",
+        "outcome": "Won",
+        "owner": "City Creek Construction",
+        "type": "Design-Build"
+      },
+      "bids_2023#10": {
+        "projectType": "Healthcare / Medical",
+        "owner": "University of Utah",
+        "type": "Proposal / Interview"
+      },
+      "bids_2023#11": {
+        "projectType": "Civic / Government",
+        "owner": "DFCM",
+        "type": "Hard Bid"
+      },
+      "bids_2023#12": {
+        "projectType": "Bank / Financial",
+        "owner": "MACU",
+        "type": "Hard Bid"
+      },
+      "bids_2023#13": {
+        "projectType": "Civic / Government",
+        "owner": "DFCM",
+        "type": "Hard Bid"
+      },
+      "bids_2023#14": {
+        "projectType": "Healthcare / Medical",
+        "owner": "University of Utah",
+        "type": "Hard Bid"
+      },
+      "bids_2023#15": {
+        "projectType": "Civic / Government",
+        "owner": "DFCM",
+        "type": "Hard Bid"
+      },
+      "bids_2023#16": {
+        "projectType": "Civic / Government",
+        "owner": "DFCM",
+        "type": "Hard Bid"
+      },
+      "bids_2023#17": {
+        "projectType": "Car Wash",
+        "owner": "Mister Carwash",
+        "type": "Hard Bid"
+      },
+      "bids_2023#19": {
+        "projectType": "Civic / Government",
+        "owner": "DFCM",
+        "type": "Hard Bid"
+      },
+      "bids_2023#20": {
+        "projectType": "Civic / Government",
+        "owner": "DFCM",
+        "type": "Hard Bid"
+      },
+      "bids_2023#21": {
+        "projectType": "Healthcare / Medical",
+        "owner": "St Marks",
+        "type": "Hard Bid"
+      },
+      "bids_2023#0": {
+        "owner": "Other",
+        "type": "Owner's Choice"
+      },
+      "bids_2023#1": {
+        "owner": "Davis County School District",
+        "type": "Hard Bid"
+      },
+      "bids_2023#2": {
+        "owner": "North Salt Lake Fire Department",
+        "type": "Negotiated"
+      },
+      "bids_2023#4": {
+        "owner": "University of Utah",
+        "type": "Hard Bid"
+      },
+      "bids_2023#6": {
+        "owner": "University of Utah",
+        "type": "Proposal / Interview"
+      },
+      "bids_2023#7": {
+        "owner": "University of Utah",
+        "type": "Hard Bid"
+      },
+      "bids_2023#8": {
+        "owner": "Granger Hospital",
+        "type": "Other"
+      },
+      "bids_2023#9": {
+        "owner": "Larry H Miller",
+        "projectType": "Tenant Improvement",
+        "type": "Hard Bid"
+      },
+      "bids_2023#18": {
+        "owner": "Other",
+        "type": "Hard Bid"
+      },
+      "bids_2023#22": {
+        "owner": "Other",
+        "type": "Hard Bid"
+      }
+    },
+    "bids_2024": {
+      "bids_2024#1": {
+        "projectType": "Civic / Government",
+        "owner": "DFCM",
+        "type": "Hard Bid"
+      },
+      "bids_2024#2": {
+        "projectType": "Civic / Government",
+        "owner": "HAFB"
+      },
+      "bids_2024#3": {
+        "projectType": "Fire Station / Public Safety",
+        "owner": "Other"
+      },
+      "bids_2024#4": {
+        "projectType": "Other",
+        "owner": "Other"
+      },
+      "bids_2024#6": {
+        "projectType": "Healthcare / Medical",
+        "owner": "Solis",
+        "type": "Hard Bid"
+      },
+      "bids_2024#7": {
+        "projectType": "Healthcare / Medical",
+        "owner": "Solis",
+        "type": "Hard Bid"
+      },
+      "bids_2024#12": {
+        "projectType": "Healthcare / Medical",
+        "owner": "St Marks",
+        "type": "Hard Bid"
+      },
+      "bids_2024#13": {
+        "projectType": "Office",
+        "owner": "Other",
+        "outcome": "Other"
+      },
+      "bids_2024#14": {
+        "projectType": "Other",
+        "owner": "Other",
+        "type": "Hard Bid"
+      },
+      "bids_2024#17": {
+        "projectType": "Education / School",
+        "owner": "University of Utah",
+        "type": "Hard Bid"
+      },
+      "bids_2024#18": {
+        "projectType": "Civic / Government",
+        "type": "Hard Bid",
+        "owner": "HAFB"
+      },
+      "bids_2024#19": {
+        "projectType": "Other",
+        "owner": "Other",
+        "type": "Hard Bid"
+      },
+      "bids_2024#20": {
+        "projectType": "Healthcare / Medical",
+        "owner": "Intermountain Health",
+        "type": "Hard Bid"
+      },
+      "bids_2024#21": {
+        "projectType": "Car Wash",
+        "owner": "Mister Carwash",
+        "type": "Hard Bid"
+      },
+      "bids_2024#22": {
+        "projectType": "Civic / Government",
+        "owner": "Other",
+        "type": "Hard Bid"
+      },
+      "bids_2024#23": {
+        "projectType": "Education / School",
+        "owner": "University of Utah",
+        "type": "Hard Bid"
+      },
+      "bids_2024#25": {
+        "projectType": "Healthcare / Medical",
+        "owner": "Intermountain Health"
+      },
+      "bids_2024#26": {
+        "projectType": "Civic / Government",
+        "owner": "DFCM"
+      },
+      "bids_2024#37": {
+        "type": "Hard Bid",
+        "owner": "Other"
+      },
+      "bids_2024#0": {
+        "owner": "Solis",
+        "type": "Hard Bid"
+      },
+      "bids_2024#5": {
+        "owner": "Wasatch Academy",
+        "type": "Hard Bid"
+      },
+      "bids_2024#8": {
+        "owner": "UCA"
+      },
+      "bids_2024#9": {
+        "owner": "DFCM",
+        "projectType": "Civic / Government"
+      },
+      "bids_2024#10": {
+        "owner": "DFCM",
+        "type": "Hard Bid"
+      },
+      "bids_2024#11": {
+        "owner": "Lone Peak Hospital",
+        "type": "Hard Bid"
+      },
+      "bids_2024#15": {
+        "owner": "Other",
+        "type": "Hard Bid"
+      },
+      "bids_2024#16": {
+        "owner": "Other",
+        "type": "Hard Bid"
+      },
+      "bids_2024#24": {
+        "owner": "Lone Peak Hospital",
+        "type": "Hard Bid"
+      },
+      "bids_2024#27": {
+        "owner": "MACU",
+        "projectType": "Bank / Financial"
+      },
+      "bids_2024#28": {
+        "owner": "Davis County School District"
+      },
+      "bids_2024#29": {
+        "project": "2430- Davis Institional Service Center Remodel",
+        "owner": "Davis County School District",
+        "projectType": "Education / School"
+      },
+      "bids_2024#30": {
+        "owner": "DFCM",
+        "projectType": "Other"
+      },
+      "bids_2024#31": {
+        "owner": "Other",
+        "projectType": "Office"
+      },
+      "bids_2024#32": {
+        "owner": "MACU",
+        "projectType": "Bank / Financial"
+      },
+      "bids_2024#33": {
+        "owner": "UCA",
+        "projectType": "Civic / Government"
+      },
+      "bids_2024#34": {
+        "owner": "Bountiful City"
+      },
+      "bids_2024#35": {
+        "owner": "Other",
+        "projectType": "Other"
+      },
+      "bids_2024#36": {
+        "owner": "LPA"
+      }
+    },
+    "bids_2025": {
+      "bids_2025#0": {
+        "owner": "University of Utah",
+        "projectType": "Education / School"
+      },
+      "bids_2025#1": {
+        "owner": "Taylorsville Improvement District",
+        "projectType": "Industrial / Warehouse"
+      },
+      "bids_2025#2": {
+        "owner": "Salas O'Brien"
+      },
+      "bids_2025#3": {
+        "owner": "Other",
+        "projectType": "Tenant Improvement"
+      },
+      "bids_2025#4": {
+        "owner": "Salas O'Brien",
+        "projectType": "Healthcare / Medical"
+      },
+      "bids_2025#5": {
+        "owner": "Development Management Associates",
+        "projectType": "Shell"
+      },
+      "bids_2025#6": {
+        "owner": "Canyon School District"
+      },
+      "bids_2025#7": {
+        "owner": "Canyon School District"
+      },
+      "bids_2025#8": {
+        "owner": "America First Credit Union"
+      },
+      "bids_2025#9": {
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "projectType": "Civic / Government"
+      },
+      "bids_2025#10": {
+        "owner": "Granger Hospital"
+      },
+      "bids_2025#11": {
+        "owner": "Other"
+      },
+      "bids_2025#12": {
+        "owner": "Taylorsville Improvement District",
+        "projectType": "Tenant Improvement"
+      },
+      "bids_2025#13": {
+        "owner": "MACU",
+        "projectType": "Bank / Financial"
+      },
+      "bids_2025#14": {
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "projectType": "Religious"
+      },
+      "bids_2025#15": {
+        "owner": "Other"
+      },
+      "bids_2025#16": {
+        "owner": "Davis County School District"
+      },
+      "bids_2025#17": {
+        "owner": "DFCM",
+        "projectType": "Civic / Government"
+      },
+      "bids_2025#18": {
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "projectType": "Tenant Improvement"
+      },
+      "bids_2025#19": {
+        "owner": "Solis",
+        "projectType": "Healthcare / Medical"
+      },
+      "bids_2025#20": {
+        "owner": "Other",
+        "projectType": "Office"
+      },
+      "bids_2025#42": {
+        "owner": "Peak Asphalt",
+        "projectType": "Tenant Improvement"
+      },
+      "bids_2025#21": {
+        "owner": "America First Credit Union",
+        "projectType": "Bank / Financial"
+      },
+      "bids_2025#22": {
+        "owner": "DFCM",
+        "projectType": "Civic / Government"
+      },
+      "bids_2025#23": {
+        "owner": "Davis County"
+      },
+      "bids_2025#24": {
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "projectType": "Tenant Improvement"
+      },
+      "bids_2025#25": {
+        "owner": "GWCU",
+        "projectType": "Bank / Financial"
+      },
+      "bids_2025#26": {
+        "owner": "Intermountain Health",
+        "projectType": "Healthcare / Medical"
+      },
+      "bids_2025#27": {
+        "owner": "MCCS",
+        "projectType": "Civic / Government"
+      },
+      "bids_2025#28": {
+        "owner": "MACU",
+        "projectType": "Bank / Financial"
+      },
+      "bids_2025#29": {
+        "owner": "Lucky Slice"
+      },
+      "bids_2025#30": {
+        "owner": "Church of Jesus Christ of Latter-Day Saints"
+      },
+      "bids_2025#31": {
+        "owner": "Bountiful City",
+        "projectType": "Civic / Government"
+      },
+      "bids_2025#32": {
+        "owner": "DFCM",
+        "projectType": "Civic / Government"
+      },
+      "bids_2025#33": {
+        "owner": "Alpha Graphics",
+        "projectType": "Office"
+      },
+      "bids_2025#34": {
+        "owner": "Other"
+      },
+      "bids_2025#35": {
+        "owner": "Solis",
+        "projectType": "Healthcare / Medical"
+      },
+      "bids_2025#36": {
+        "owner": "Church of Jesus Christ of Latter-Day Saints"
+      },
+      "bids_2025#37": {
+        "owner": "Schultz",
+        "projectType": "Luxury Custom Home Remodel",
+        "project": "Schultz Residence"
+      },
+      "bids_2025#38": {
+        "owner": "Development Management Associates",
+        "projectType": "Recreation / Fitness"
+      },
+      "bids_2025#39": {
+        "owner": "HAFB"
+      },
+      "bids_2025#40": {
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "projectType": "Religious"
+      },
+      "bids_2025#41": {
+        "owner": "Davis County",
+        "projectType": "Civic / Government"
+      },
+      "bids_2025#43": {
+        "owner": "Kinkaid Civil",
+        "projectType": "Tenant Improvement"
+      },
+      "bids_2025#44": {
+        "owner": "America First Credit Union"
+      },
+      "bids_2025#45": {
+        "owner": "America First Credit Union"
+      }
+    },
+    "wip": {
+      "wip#3": {
+        "contract": 215590,
+        "rev2026": 7000000,
+        "costToDate": 950000
+      }
+    },
+    "revEst": {
+      "revEst#0": {
+        "marginPct": 0.11400086627213679
+      }
+    },
+    "jobcosts": {
+      "jobcosts#21": {
+        "origFee": 0.09
+      },
+      "jobcosts#0": {
+        "estimate": 72869,
+        "actual": 63949,
+        "origFee": 0.13,
+        "finalProfitPct": 0.264,
+        "job": "2303. NSL Fire Station"
+      },
+      "jobcosts#1": {
+        "estimate": 1147388,
+        "actual": 720133,
+        "origFee": 0.09,
+        "finalProfitPct": 0.3,
+        "job": "2307 CNC Aesthetics UU Hospital"
+      },
+      "jobcosts#2": {
+        "estimate": 745163,
+        "actual": 737996,
+        "origFee": 0.08,
+        "finalProfitPct": 0.045,
+        "job": "2308. CT Scanner Installation"
+      },
+      "jobcosts#3": {
+        "estimate": 1358696,
+        "actual": 1206761,
+        "origFee": 0.07,
+        "finalProfitPct": 0.24
+      },
+      "jobcosts#17": {
+        "job": "Schultz Residence"
+      }
+    }
+  },
+  "added": {
+    "coverage": [
+      {
+        "_id": "coverage#new#17829254845095469",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "div": "2",
+        "divName": "Existing Conditions",
+        "invited": 3,
+        "responded": 1,
+        "notes": ""
+      },
+      {
+        "_id": "coverage#new#17839725307855180",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "div": "6",
+        "divName": "Wood, Plastics & Composites",
+        "invited": 2,
+        "responded": 2,
+        "notes": "I could only invite 2 preffered by the church",
+        "mandated": true
+      },
+      {
+        "_id": "coverage#new#17840463224344340",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "div": "6",
+        "divName": "Wood, Plastics & Composites",
+        "invited": 3,
+        "responded": 1,
+        "notes": "Wood Framing"
+      },
+      {
+        "_id": "coverage#new#17840464555911286",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "div": "26",
+        "divName": "Electrical",
+        "invited": 4,
+        "responded": 2,
+        "notes": "",
+        "mandated": true
+      },
+      {
+        "_id": "coverage#new#1784647968401397461",
+        "_added": true,
+        "project": "2613- Toastique Salt Lake City",
+        "div": 7,
+        "divName": "Thermal & Moisture Protection",
+        "invited": 4,
+        "responded": 1,
+        "scope": "Insulation",
+        "mandated": false,
+        "mandatedSub": "",
+        "notes": ""
+      },
+      {
+        "_id": "coverage#new#1784647968401964457",
+        "_added": true,
+        "project": "2613- Toastique Salt Lake City",
+        "div": 8,
+        "divName": "Openings",
+        "invited": 4,
+        "responded": 2,
+        "scope": "Doors/Frames/Hardware",
+        "mandated": false,
+        "mandatedSub": "",
+        "notes": ""
+      },
+      {
+        "_id": "coverage#new#178464796840173936",
+        "_added": true,
+        "project": "2613- Toastique Salt Lake City",
+        "div": 9,
+        "divName": "Finishes",
+        "invited": null,
+        "responded": null,
+        "scope": "",
+        "mandated": false,
+        "mandatedSub": "",
+        "notes": ""
+      },
+      {
+        "_id": "coverage#new#1784647968401160532",
+        "_added": true,
+        "project": "2613- Toastique Salt Lake City",
+        "div": 10,
+        "divName": "Specialties",
+        "invited": null,
+        "responded": null,
+        "scope": "",
+        "mandated": false,
+        "mandatedSub": "",
+        "notes": ""
+      },
+      {
+        "_id": "coverage#new#1784647968401545329",
+        "_added": true,
+        "project": "2613- Toastique Salt Lake City",
+        "div": 21,
+        "divName": "Fire Suppression",
+        "invited": null,
+        "responded": null,
+        "scope": "",
+        "mandated": false,
+        "mandatedSub": "",
+        "notes": ""
+      },
+      {
+        "_id": "coverage#new#1784647968401872117",
+        "_added": true,
+        "project": "2613- Toastique Salt Lake City",
+        "div": 22,
+        "divName": "Plumbing",
+        "invited": null,
+        "responded": null,
+        "scope": "",
+        "mandated": false,
+        "mandatedSub": "",
+        "notes": ""
+      },
+      {
+        "_id": "coverage#new#1784647968401914414",
+        "_added": true,
+        "project": "2613- Toastique Salt Lake City",
+        "div": 23,
+        "divName": "HVAC",
+        "invited": null,
+        "responded": null,
+        "scope": "",
+        "mandated": false,
+        "mandatedSub": "",
+        "notes": ""
+      },
+      {
+        "_id": "coverage#new#1784647968401499854",
+        "_added": true,
+        "project": "2613- Toastique Salt Lake City",
+        "div": 26,
+        "divName": "Electrical",
+        "invited": null,
+        "responded": null,
+        "scope": "",
+        "mandated": false,
+        "mandatedSub": "",
+        "notes": ""
+      },
+      {
+        "_id": "coverage#new#1784647968401102238",
+        "_added": true,
+        "project": "2613- Toastique Salt Lake City",
+        "div": 31,
+        "divName": "Earthwork",
+        "invited": null,
+        "responded": null,
+        "scope": "",
+        "mandated": false,
+        "mandatedSub": "",
+        "notes": ""
+      },
+      {
+        "_id": "coverage#new#1784647968401196662",
+        "_added": true,
+        "project": "2613- Toastique Salt Lake City",
+        "div": 32,
+        "divName": "Exterior Improvements",
+        "invited": null,
+        "responded": null,
+        "scope": "",
+        "mandated": false,
+        "mandatedSub": "",
+        "notes": ""
+      },
+      {
+        "_id": "coverage#new#1784647968400678644",
+        "_added": true,
+        "project": "2613- Toastique Salt Lake City",
+        "div": 3,
+        "divName": "Concrete",
+        "invited": null,
+        "responded": null,
+        "scope": "",
+        "mandated": false,
+        "mandatedSub": "",
+        "notes": ""
+      }
+    ],
+    "pmProjects": [
+      {
+        "_id": "pmProjects#new#1783537280352_261032",
+        "_added": true,
+        "name": "LDS CCB Ticket Office Remodel",
+        "super": "Bridger Green",
+        "pm": "Brandt Knowlton",
+        "status": "Active",
+        "start": "2026-07-20",
+        "end": "2026-08-28",
+        "value": 226986,
+        "pct": 0,
+        "notes": "From contracted work"
+      },
+      {
+        "_id": "pmProjects#new#1783543270991_66860",
+        "_added": true,
+        "name": "HAFB Brick Repair",
+        "super": "Kameron Kaye",
+        "pm": "Brandt Knowlton",
+        "status": "Active",
+        "start": "2026-04-06",
+        "end": "2026-12-18",
+        "value": 3603796,
+        "pct": 0,
+        "notes": "From contracted work",
+        "milestones": []
+      },
+      {
+        "_id": "pmProjects#new#1783543270991_424324",
+        "_added": true,
+        "name": "LDS WIFI Project",
+        "super": "Bridger Green",
+        "pm": "Brandt Knowlton",
+        "status": "Active",
+        "start": "2026-02-09",
+        "end": "2026-12-31",
+        "value": 2474005,
+        "pct": 0,
+        "notes": "From contracted work",
+        "milestones": []
+      },
+      {
+        "_id": "pmProjects#new#1783543270991_730743",
+        "_added": true,
+        "name": "Kinkaid",
+        "super": "Brady Miller",
+        "pm": "Steve Southwick",
+        "status": "Active",
+        "start": "2026-05-11",
+        "end": "2026-08-28",
+        "value": 1130000,
+        "pct": 0,
+        "notes": "From contracted work",
+        "milestones": []
+      },
+      {
+        "_id": "pmProjects#new#1783543270991_321616",
+        "_added": true,
+        "name": "LDS WIFI Project Phases 2-4. PR's 1-3",
+        "super": "Bridger Green",
+        "pm": "Brandt Knowlton",
+        "status": "Active",
+        "start": "2026-05-11",
+        "end": "2026-12-31",
+        "value": 995586,
+        "pct": 0,
+        "notes": "From contracted work",
+        "milestones": []
+      },
+      {
+        "_id": "pmProjects#new#1783543270991_858919",
+        "_added": true,
+        "name": "Mosquito Abatement",
+        "super": "Dave Swisher",
+        "pm": "Brandt Knowlton",
+        "status": "Active",
+        "start": "2026-06-08",
+        "end": "2027-01-29",
+        "value": 7998278,
+        "pct": 0,
+        "notes": "From contracted work",
+        "milestones": []
+      },
+      {
+        "_id": "pmProjects#new#1783613900887_802859",
+        "_added": true,
+        "name": "Alpha Graphics",
+        "super": "",
+        "pm": "Brandt Knowlton",
+        "status": "Preconstruction",
+        "start": "2026-08-24",
+        "end": "2028-02-10",
+        "value": 4500000,
+        "pct": 0,
+        "notes": "From contracted work"
+      },
+      {
+        "_id": "pmProjects#new#1783614710173_802006",
+        "_added": true,
+        "name": "Motorsport",
+        "super": "Jim Douglas, Caden Beyer",
+        "pm": "Brandt Knowlton",
+        "status": "Active",
+        "start": "2026-06-02",
+        "end": "2026-11-13",
+        "value": 3356143.42,
+        "pct": 0,
+        "notes": "From contracted work",
+        "milestones": []
+      },
+      {
+        "_id": "pmProjects#new#1784648070111_356727",
+        "_added": true,
+        "name": "WX Old Office Touchup",
+        "super": "",
+        "pm": "",
+        "status": "Preconstruction",
+        "start": "",
+        "end": "",
+        "value": 22187,
+        "pct": 0,
+        "notes": "From contracted work",
+        "milestones": []
+      }
+    ],
+    "contracted": [
+      {
+        "_id": "contracted#new#17836141947816445",
+        "_added": true,
+        "name": "Motorsport",
+        "projectType": "Other",
+        "start": "June 2026",
+        "amount": 3356143.42,
+        "fee": 0.035,
+        "length": "5 Months",
+        "earnedRev": 3356143
+      },
+      {
+        "_id": "contracted#new#1784045994139821",
+        "_added": true,
+        "name": "WX Old Office Touchup",
+        "projectType": "Tenant Improvement",
+        "start": "05/01/2026",
+        "amount": 22187,
+        "fee": 0.1,
+        "length": "2 Weeks",
+        "earnedRev": 22187,
+        "source": "Direct Award"
+      }
+    ],
+    "gonogo": [
+      {
+        "_id": "gonogo#new#17851812713578048",
+        "_added": true,
+        "project": "",
+        "projectType": "Religious",
+        "value": 750000,
+        "client": "LDS Church",
+        "location": "",
+        "gcs": 4,
+        "delivery": "Hard Bid",
+        "typeFit": 5,
+        "relationship": 5,
+        "margin": 3,
+        "competition": 4,
+        "sizeFit": 3,
+        "capacity": 4,
+        "geoFit": 5,
+        "strategic": 5,
+        "decision": "",
+        "notes": ""
+      }
+    ],
+    "superintendents": [
+      {
+        "_id": "superintendents#new#17835493765394416",
+        "_added": true,
+        "name": "Justin Ignia",
+        "phone": "",
+        "notes": ""
+      },
+      {
+        "_id": "superintendents#new#17836276150453745",
+        "_added": true,
+        "name": "Caden Beyer",
+        "phone": "",
+        "notes": ""
+      }
+    ],
+    "potential": [
+      {
+        "_id": "potential#new#17835498394268638",
+        "_added": true,
+        "name": "Syracuse El Matador",
+        "projectType": "Restaurant / Food Service",
+        "start": "Q1 2027",
+        "amount": 3200000,
+        "fee": 0.08,
+        "length": "8 Months",
+        "estRev": 0
+      }
+    ],
+    "bidTasks": [
+      {
+        "_id": "bidTasks#new#1783550839364_812136",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "task": "Confirm bid date, time & delivery method",
+        "done": true
+      },
+      {
+        "_id": "bidTasks#new#1783550839364_728342",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "task": "Download full drawing & spec set",
+        "done": true
+      },
+      {
+        "_id": "bidTasks#new#1783550839364_679469",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "task": "Log the bid in the Bid Log",
+        "done": true
+      },
+      {
+        "_id": "bidTasks#new#1783550839364_265186",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "task": "Send ITB invitations to subcontractors",
+        "done": true
+      },
+      {
+        "_id": "bidTasks#new#1783550839364_876732",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "task": "Complete quantity takeoff",
+        "done": false
+      },
+      {
+        "_id": "bidTasks#new#1783550839364_92558",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "task": "Get sub coverage on all divisions",
+        "done": false
+      },
+      {
+        "_id": "bidTasks#new#1783550839364_204306",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "task": "Review scope gaps & exclusions",
+        "done": false
+      },
+      {
+        "_id": "bidTasks#new#1783550839364_226851",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "task": "Obtain material & equipment quotes",
+        "done": false
+      },
+      {
+        "_id": "bidTasks#new#1783550839364_379072",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "task": "Confirm bid bond / P&P bond requirements",
+        "done": true
+      },
+      {
+        "_id": "bidTasks#new#1783550839365_470093",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "task": "Apply general conditions, markup & fee",
+        "done": false
+      },
+      {
+        "_id": "bidTasks#new#1783550839365_178249",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "task": "Level sub bids (apples-to-apples)",
+        "done": false
+      },
+      {
+        "_id": "bidTasks#new#1783550839365_500468",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "task": "Fill plug numbers for any gaps",
+        "done": false
+      },
+      {
+        "_id": "bidTasks#new#1783550839365_453371",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "task": "Final estimate & proposal review",
+        "done": false
+      },
+      {
+        "_id": "bidTasks#new#1783550839365_806273",
+        "_added": true,
+        "project": "JSB Chapel Wheelchair Ramp Project",
+        "task": "Submit bid before deadline",
+        "done": false
+      }
+    ],
+    "wip": [
+      {
+        "_id": "wip#new#1784045249659_451770",
+        "_added": true,
+        "project": "HAFB Brick Wall & Concrete Walkway Repair",
+        "projectNumber": "2508",
+        "origContract": 3603796,
+        "approvedCOs": 0,
+        "revisedContract": 3603796,
+        "paymentsReceived": 0,
+        "revisedCommitted": 3351530,
+        "paymentsToDate": 1498208,
+        "variance": 1787266.3,
+        "pctUncommitted": 49.59,
+        "rev2026": 3603796,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "notes": "Imported from Procore",
+        "estimated": true
+      },
+      {
+        "_id": "wip#new#1784045249659_91636",
+        "_added": true,
+        "project": "Kinkaid Civil Construction SLC Office Build-Out",
+        "projectNumber": "2510",
+        "origContract": 1130396.04,
+        "approvedCOs": 0,
+        "revisedContract": 1130396.04,
+        "paymentsReceived": 0,
+        "revisedCommitted": 1051268,
+        "paymentsToDate": 766329,
+        "variance": 335442.88,
+        "pctUncommitted": 29.67,
+        "rev2026": 1130396,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "notes": "Imported from Procore",
+        "estimated": true
+      },
+      {
+        "_id": "wip#new#1784045249659_237646",
+        "_added": true,
+        "project": "LDS HQF CCB Events Suite Refresh",
+        "projectNumber": "2604",
+        "origContract": 226985.6,
+        "approvedCOs": 0,
+        "revisedContract": 226985.6,
+        "paymentsReceived": 0,
+        "revisedCommitted": 0,
+        "paymentsToDate": 0,
+        "variance": 226985.6,
+        "pctUncommitted": 100,
+        "rev2026": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "notes": "Imported from Procore"
+      },
+      {
+        "_id": "wip#new#1784045249659_327483",
+        "_added": true,
+        "project": "MAD_Pesticide Storage and Campus Expansion",
+        "projectNumber": "2511",
+        "origContract": 7998277,
+        "approvedCOs": 0,
+        "revisedContract": 7998277,
+        "paymentsReceived": 0,
+        "revisedCommitted": 6062778.14,
+        "paymentsToDate": 0,
+        "variance": 1935498.86,
+        "pctUncommitted": 24.2,
+        "rev2026": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "notes": "Imported from Procore"
+      },
+      {
+        "_id": "wip#new#1784045249659_44841",
+        "_added": true,
+        "project": "Motorsport Shop & Warehouse",
+        "projectNumber": "2601",
+        "origContract": 3359143.42,
+        "approvedCOs": 0,
+        "revisedContract": 3359143.42,
+        "paymentsReceived": 0,
+        "revisedCommitted": 3124003,
+        "paymentsToDate": 1094196,
+        "variance": 612394.93,
+        "pctUncommitted": 18.23,
+        "rev2026": 3359143,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "notes": "Imported from Procore",
+        "estimated": true
+      },
+      {
+        "_id": "wip#new#1784045249659_978243",
+        "_added": true,
+        "project": "Schultz Residence",
+        "projectNumber": "2507",
+        "origContract": 15000000,
+        "approvedCOs": 0,
+        "revisedContract": 15000000,
+        "paymentsReceived": 2000000,
+        "revisedCommitted": 13950000,
+        "paymentsToDate": 418500,
+        "variance": -3702187.36,
+        "pctUncommitted": 1717.24,
+        "rev2026": 6780067,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "notes": "Imported from Procore",
+        "estimated": true
+      },
+      {
+        "_id": "wip#new#1785185042711_534734",
+        "_added": true,
+        "project": "LDS CCB Ticket Office Remodel",
+        "projectNumber": "",
+        "origContract": 226986,
+        "approvedCOs": 0,
+        "revisedContract": 226986,
+        "paymentsReceived": 0,
+        "revisedCommitted": 211097,
+        "paymentsToDate": 51185,
+        "variance": null,
+        "pctUncommitted": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": 226986,
+        "notes": "",
+        "estimated": true
+      },
+      {
+        "_id": "wip#new#1785185042711_517559",
+        "_added": true,
+        "project": "Mosquito Abatement",
+        "projectNumber": "",
+        "origContract": 7998278,
+        "approvedCOs": 0,
+        "revisedContract": 7998278,
+        "paymentsReceived": 0,
+        "revisedCommitted": 7438399,
+        "paymentsToDate": 1628445,
+        "variance": null,
+        "pctUncommitted": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": 7045461,
+        "notes": "",
+        "estimated": true
+      },
+      {
+        "_id": "wip#new#1785185042711_125690",
+        "_added": true,
+        "project": "Alpha Graphics",
+        "projectNumber": "",
+        "origContract": 4500000,
+        "approvedCOs": 0,
+        "revisedContract": 4500000,
+        "paymentsReceived": 0,
+        "revisedCommitted": 4185000,
+        "paymentsToDate": 0,
+        "variance": null,
+        "pctUncommitted": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": 1093723,
+        "notes": "",
+        "estimated": true
+      },
+      {
+        "_id": "wip#new#1785185042711_10791",
+        "_added": true,
+        "project": "WX Old Office Touchup",
+        "projectNumber": "",
+        "origContract": 22187,
+        "approvedCOs": 0,
+        "revisedContract": 22187,
+        "paymentsReceived": 0,
+        "revisedCommitted": 20634,
+        "paymentsToDate": 20634,
+        "variance": null,
+        "pctUncommitted": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": 22187,
+        "notes": "",
+        "estimated": true
+      },
+      {
+        "_id": "wip#new#1785185786054_442931",
+        "_added": true,
+        "project": "LDS WIFI Project",
+        "projectNumber": "2509",
+        "origContract": 2474005,
+        "approvedCOs": 950000,
+        "revisedContract": 2474005,
+        "paymentsReceived": 0,
+        "revisedCommitted": 2300825,
+        "paymentsToDate": 1206444,
+        "variance": 1111993.04,
+        "pctUncommitted": 30.37,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": 2474005,
+        "notes": "Imported from Procore",
+        "estimated": true
+      }
+    ],
+    "owners": [
+      {
+        "_id": "owners#new#17836271718776973",
+        "_added": true,
+        "name": "Gerrity Repta (Motorsport)"
+      },
+      {
+        "_id": "owners#new#17836271900515019",
+        "_added": true,
+        "name": "Church of Jesus Christ of Latter-Day Saints"
+      },
+      {
+        "_id": "owners#new#17836272399373343",
+        "_added": true,
+        "name": "Salas O'Brien"
+      },
+      {
+        "_id": "owners#new#17836276919687285",
+        "_added": true,
+        "name": "Development Management Associates"
+      },
+      {
+        "_id": "owners#new#17836277782252920",
+        "_added": true,
+        "name": "Davis County School District"
+      },
+      {
+        "_id": "owners#new#17836278142012601",
+        "_added": true,
+        "name": "North Salt Lake Fire Department"
+      },
+      {
+        "_id": "owners#new#17836278290416629",
+        "_added": true,
+        "name": "Mister Carwash"
+      },
+      {
+        "_id": "owners#new#17836278566376563",
+        "_added": true,
+        "name": "City Creek Construction"
+      },
+      {
+        "_id": "owners#new#17836279418335825",
+        "_added": true,
+        "name": "Granger Hospital"
+      },
+      {
+        "_id": "owners#new#17836279616012781",
+        "_added": true,
+        "name": "Larry H Miller"
+      },
+      {
+        "_id": "owners#new#17836286576854996",
+        "_added": true,
+        "name": "St Marks"
+      },
+      {
+        "_id": "owners#new#17836290980093066",
+        "_added": true,
+        "name": "Wasatch Academy"
+      },
+      {
+        "_id": "owners#new#1783629143018228",
+        "_added": true,
+        "name": "UCA"
+      },
+      {
+        "_id": "owners#new#17836304219319007",
+        "_added": true,
+        "name": "Lone Peak Hospital"
+      },
+      {
+        "_id": "owners#new#17836306803286329",
+        "_added": true,
+        "name": "Intermountain Health"
+      },
+      {
+        "_id": "owners#new#17836311292086303",
+        "_added": true,
+        "name": "LPA"
+      },
+      {
+        "_id": "owners#new#17836311746161303",
+        "_added": true,
+        "name": "Taylorsville Improvement District"
+      },
+      {
+        "_id": "owners#new#17836312235362218",
+        "_added": true,
+        "name": "Canyon School District"
+      },
+      {
+        "_id": "owners#new#17836312827921692",
+        "_added": true,
+        "name": "America First Credit Union"
+      },
+      {
+        "_id": "owners#new#17836336719041055",
+        "_added": true,
+        "name": "Peak Asphalt"
+      },
+      {
+        "_id": "owners#new#17836337929132682",
+        "_added": true,
+        "name": "GWCU"
+      },
+      {
+        "_id": "owners#new#17836338381128688",
+        "_added": true,
+        "name": "Lucky Slice"
+      },
+      {
+        "_id": "owners#new#17836339951917820",
+        "_added": true,
+        "name": "Alpha Graphics"
+      },
+      {
+        "_id": "owners#new#17836362309888565",
+        "_added": true,
+        "name": "Toastique"
+      },
+      {
+        "_id": "owners#new#17839722073783303",
+        "_added": true,
+        "name": "Schultz"
+      },
+      {
+        "_id": "owners#new#17839723269913667",
+        "_added": true,
+        "name": "Kinkaid Civil"
+      },
+      {
+        "_id": "owners#new#17839729538319537",
+        "_added": true,
+        "name": "Ron Wilde"
+      },
+      {
+        "_id": "owners#new#17839760050954232",
+        "_added": true,
+        "name": "Prime Insurance"
+      }
+    ],
+    "bids_2026": [
+      {
+        "_id": "bids_2026#new#17836362062608866",
+        "_added": true,
+        "project": "2613- Toastique The Aster, UT",
+        "owner": "Toastique",
+        "projectType": "Restaurant / Food Service",
+        "type": "Hard Bid",
+        "date": "2026-07-23",
+        "amount": 424660,
+        "outcome": "Pending",
+        "notes": "",
+        "ord": 12,
+        "monthlyGC": 24913,
+        "feePct": 0.1,
+        "contingencyPct": 0.0259,
+        "sf": 1100,
+        "costPerSf": 386.05,
+        "avgBids": 1.45,
+        "gcsBidding": 3,
+        "constrType": "Restaurant / Food Service"
+      },
+      {
+        "_id": "bids_2026#new#1784647314552_795894",
+        "_added": true,
+        "project": "2612- JSMB Chapel Wheelchair Ramp Project",
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "projectType": "Religious",
+        "type": "Hard Bid",
+        "date": "2026-07-14",
+        "amount": 185228,
+        "outcome": "Lost",
+        "notes": "Receive Bids",
+        "ord": 11
+      },
+      {
+        "_id": "bids_2026#new#1784647571262_572891",
+        "_added": true,
+        "project": "Prime Insurance Asphalt Coating and Striping",
+        "owner": "Prime Insurance",
+        "projectType": "Other",
+        "type": "Negotiated",
+        "date": "2026-07-21",
+        "amount": 29155,
+        "outcome": "Other",
+        "notes": "Jim Douglas Called about this. I'm putting together a number for him.",
+        "ord": 14,
+        "constrType": "Other",
+        "debriefNotes": "Jim Douglas Called about this. I'm putting together a number for him."
+      },
+      {
+        "_id": "bids_2026#new#17858724107103694",
+        "_added": true,
+        "project": "2614- GWC 6A-7A Remodels",
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "projectType": "Religious",
+        "type": "Hard Bid",
+        "date": "2026-08-04",
+        "amount": 492718,
+        "outcome": "Lost",
+        "notes": "",
+        "monthlyGC": 23231,
+        "feePct": 0.06,
+        "contingencyPct": 0.0304,
+        "sf": 3200,
+        "costPerSf": 153.97,
+        "duration": "3 Months",
+        "gcsBidding": 4,
+        "constrType": "Remodel",
+        "avgBids": 2.75,
+        "ord": 13
+      }
+    ],
+    "active": [
+      {
+        "_id": "active#new#17836362819137831",
+        "_added": true,
+        "project": "2613- Toastique Salt Lake City",
+        "section": "submitted",
+        "bidNo": "2613",
+        "date": "2026-07-09",
+        "due": "2026-07-23",
+        "status": "Submitted",
+        "duration": "",
+        "nextStep": "Continue Takeoff. Ongoing conversations with  Trade Partners",
+        "budget": 475000,
+        "submitted": 424660,
+        "gcsBidding": 3,
+        "owner": "Toastique",
+        "projectType": "Restaurant / Food Service",
+        "assignee": "Jamo"
+      },
+      {
+        "_id": "active#new#17842289352673024",
+        "_added": true,
+        "project": "Alpha Graphics",
+        "section": "cmgc",
+        "bidNo": "",
+        "date": "2026-07-16",
+        "due": "2026-08-20",
+        "status": "CMGC",
+        "duration": "10 Months",
+        "nextStep": "Send out for bid",
+        "budget": 4500000,
+        "submitted": null,
+        "gcsBidding": 1,
+        "owner": "Alpha Graphics",
+        "projectType": "Office",
+        "negStage": "Awarded — Locked",
+        "winProb": 1,
+        "won": true,
+        "deliveryMethod": "Negotiated",
+        "assignee": "Jamo"
+      },
+      {
+        "_id": "active#new#17851807807187612",
+        "_added": true,
+        "project": "Kinkaid Shop",
+        "section": "submitted",
+        "bidNo": "",
+        "date": "2026-07-27",
+        "due": "2026-07-31",
+        "status": "Submitted",
+        "duration": "",
+        "nextStep": "Bid From Sentinel Steel",
+        "budget": 550000,
+        "submitted": 550000,
+        "gcsBidding": null,
+        "owner": "Kinkaid Civil",
+        "projectType": "Prefab Metal Building",
+        "assignee": "Jamo"
+      },
+      {
+        "_id": "active#new#17853425532841830",
+        "_added": true,
+        "project": "Kinkaid CMU Wall and Fence",
+        "section": "bidding",
+        "bidNo": "",
+        "date": "2026-07-29",
+        "due": "2026-08-11",
+        "status": "Bidding",
+        "duration": "",
+        "nextStep": "",
+        "budget": 225000,
+        "submitted": null,
+        "gcsBidding": 1,
+        "owner": "Kinkaid Civil",
+        "projectType": "Other",
+        "assignee": "Jamo"
+      }
+    ],
+    "gc": [],
+    "bdOpps": [
+      {
+        "_id": "bdOpps#new#1783978585670_970746",
+        "_added": true,
+        "name": "Kaysville Office Building",
+        "client": "Ron Wilde",
+        "stage": "Lead",
+        "value": 3500000,
+        "probability": null,
+        "source": "Prospective bid",
+        "nextStep": "Awaiting Further Information",
+        "nextDue": "",
+        "notes": "From Active Bids"
+      },
+      {
+        "_id": "bdOpps#new#1783978585670_721476",
+        "_added": true,
+        "name": "El Matador Syracuse",
+        "client": "El Matador",
+        "stage": "Lead",
+        "value": 3500000,
+        "probability": null,
+        "source": "Prospective bid",
+        "nextStep": "Await their Contract review",
+        "nextDue": "",
+        "notes": "From Active Bids"
+      },
+      {
+        "_id": "bdOpps#new#1783978585670_8674",
+        "_added": true,
+        "name": "HAFB Brick Repair (2 Buildings)",
+        "client": "MCCS",
+        "stage": "Lead",
+        "value": 2500000,
+        "probability": null,
+        "source": "Prospective bid",
+        "nextStep": "Awaiting Further Information",
+        "nextDue": "",
+        "notes": "From Active Bids"
+      }
+    ],
+    "bdContacts": [],
+    "callLog": [
+      {
+        "_id": "callLog#new#17848259022674896",
+        "_added": true,
+        "date": "2026-07-23",
+        "time": "10:58",
+        "who": "Jeff Park",
+        "company": "Ponds Plumbing",
+        "direction": "Inbound",
+        "method": "Phone",
+        "outcome": "Connected",
+        "purpose": "Bid Day",
+        "project": "2613- Toastique Salt Lake City",
+        "minutes": 7,
+        "followUp": "",
+        "done": false,
+        "notes": "Confirming his scope",
+        "linkKind": "partner",
+        "linkId": "partners#new#17848263691578120"
+      },
+      {
+        "_id": "callLog#new#17848268188378717",
+        "_added": true,
+        "date": "2026-07-23",
+        "time": "11:13",
+        "who": "Warren",
+        "company": "Accent Painting",
+        "direction": "Inbound",
+        "method": "Phone",
+        "outcome": "",
+        "purpose": "Bid Day",
+        "project": "2613- Toastique Salt Lake City",
+        "minutes": 3,
+        "followUp": "",
+        "done": false,
+        "notes": "",
+        "linkKind": "",
+        "linkId": ""
+      },
+      {
+        "_id": "callLog#new#17851821433928184",
+        "_added": true,
+        "date": "2026-07-27",
+        "time": "13:55",
+        "who": "B2 Air",
+        "company": "B2 Air",
+        "direction": "Outbound",
+        "method": "Phone",
+        "outcome": "Sent Info",
+        "purpose": "Bid Invite / ITB",
+        "project": "Alpha Graphics",
+        "minutes": 2,
+        "followUp": "",
+        "done": false,
+        "notes": "",
+        "linkKind": "partner",
+        "linkId": "partners#new#17851821660844987"
+      },
+      {
+        "_id": "callLog#new#17851825053001965",
+        "_added": true,
+        "date": "2026-07-23",
+        "time": "14:01",
+        "who": "Josh",
+        "company": "Accent Painting",
+        "direction": "Inbound",
+        "method": "Phone",
+        "outcome": "Connected",
+        "purpose": "Bid Invite / ITB",
+        "project": "Schultz Residence",
+        "minutes": 3,
+        "followUp": "",
+        "done": false,
+        "notes": "",
+        "linkKind": "",
+        "linkId": ""
+      },
+      {
+        "_id": "callLog#new#17851825920683114",
+        "_added": true,
+        "date": "2026-07-23",
+        "time": "14:03",
+        "who": "Motorsport Inc",
+        "company": "Motorsport Inc",
+        "direction": "Outbound",
+        "method": "Phone",
+        "outcome": "Connected",
+        "purpose": "Vendor Pricing",
+        "project": "Motorsport",
+        "minutes": 2,
+        "followUp": "",
+        "done": false,
+        "notes": "Confirmed price of bathrooms on original bid. ",
+        "linkKind": "partner",
+        "linkId": "partners#950"
+      }
+    ],
+    "partners": [
+      {
+        "_id": "partners#new#17848263691578120",
+        "_added": true,
+        "subId": "SUB-2144",
+        "company": "Ponds Plumbing",
+        "div": 0,
+        "divName": "Unclassified — review",
+        "trade": "",
+        "city": "",
+        "status": "Prospect",
+        "reviews": [],
+        "kind": "Unclassified",
+        "scopes": [
+          {
+            "div": 0,
+            "trade": ""
+          }
+        ],
+        "lastContact": "2026-07-23",
+        "notes": "Added from Call Log"
+      },
+      {
+        "_id": "partners#new#17851821660844987",
+        "_added": true,
+        "subId": "SUB-2145",
+        "company": "B2 Air",
+        "div": 0,
+        "divName": "Unclassified — review",
+        "trade": "",
+        "city": "",
+        "status": "Prospect",
+        "reviews": [],
+        "kind": "Unclassified",
+        "scopes": [
+          {
+            "div": 0,
+            "trade": ""
+          }
+        ],
+        "lastContact": "2026-07-27",
+        "notes": "Added from Call Log"
+      },
+      {
+        "_id": "partners#new#1786027451698_76738",
+        "_added": true,
+        "subId": "SUB-2186",
+        "company": "Unkown",
+        "div": 0,
+        "divName": "Unclassified — review",
+        "trade": "General Contractor",
+        "city": "",
+        "status": "Prospect",
+        "reviews": [],
+        "kind": "General Contractor",
+        "scopes": [
+          {
+            "div": 0,
+            "trade": "General Contractor"
+          }
+        ],
+        "lastContact": "",
+        "notes": "Competitor GC — added from a debrief"
+      }
+    ],
+    "changeOrders": [
+      {
+        "_id": "changeOrders#new#17848438693031462",
+        "_added": true,
+        "project": "LDS WIFI Project",
+        "type": "PR",
+        "number": "4: A-D",
+        "description": "",
+        "date": "2026-07-23",
+        "amount": 2600000,
+        "rev2026": 2600000,
+        "status": "Approved"
+      }
+    ]
+  },
+  "deleted": {
+    "partners": {
+      "partners#377": true,
+      "partners#677": true,
+      "partners#639": true,
+      "partners#678": true,
+      "partners#86": true,
+      "partners#0": true,
+      "partners#1": true,
+      "partners#680": true,
+      "partners#682": true,
+      "partners#679": true,
+      "partners#684": true,
+      "partners#685": true,
+      "partners#284": true,
+      "partners#689": true,
+      "partners#533": true,
+      "partners#694": true,
+      "partners#693": true,
+      "partners#690": true,
+      "partners#691": true,
+      "partners#692": true,
+      "partners#479": true,
+      "partners#683": true,
+      "partners#681": true,
+      "partners#475": true,
+      "partners#698": true,
+      "partners#699": true,
+      "partners#705": true,
+      "partners#701": true,
+      "partners#474": true,
+      "partners#1143": true,
+      "partners#537": true,
+      "partners#724": true,
+      "partners#646": true,
+      "partners#723": true
+    },
+    "pmProjects": {
+      "pmProjects#0": true,
+      "pmProjects#5": true,
+      "pmProjects#2": true,
+      "pmProjects#1": true,
+      "pmProjects#7": true,
+      "pmProjects#6": true,
+      "pmProjects#4": true
+    },
+    "gonogo": {
+      "gonogo#0": true
+    },
+    "wip": {
+      "wip#7": true,
+      "wip#6": true,
+      "wip#5": true,
+      "wip#0": true,
+      "wip#1": true,
+      "wip#2": true,
+      "wip#4": true,
+      "wip#3": true
+    },
+    "superintendents": {
+      "superintendents#4": true,
+      "superintendents#3": true
+    },
+    "active": {
+      "active#5": true,
+      "active#4": true,
+      "active#2": true,
+      "active#1": true,
+      "active#0": true,
+      "active#3": true
+    },
+    "bdOpps": {
+      "bdOpps#2": true,
+      "bdOpps#4": true,
+      "bdOpps#3": true,
+      "bdOpps#1": true,
+      "bdOpps#0": true,
+      "bdOpps#5": true,
+      "bdOpps#6": true
+    },
+    "contracted": {
+      "contracted#7": true,
+      "contracted#5": true
+    },
+    "bids_2024": {
+      "bids_2024#13": true
+    },
+    "bids_2025": {
+      "bids_2025#15": true
+    },
+    "bdContacts": {
+      "bdContacts#9": true,
+      "bdContacts#4": true,
+      "bdContacts#2": true,
+      "bdContacts#0": true,
+      "bdContacts#8": true,
+      "bdContacts#7": true,
+      "bdContacts#6": true,
+      "bdContacts#5": true,
+      "bdContacts#3": true,
+      "bdContacts#1": true
+    },
+    "bdNeedle": {
+      "bdNeedle#0": true,
+      "bdNeedle#1": true,
+      "bdNeedle#2": true,
+      "bdNeedle#3": true,
+      "bdNeedle#4": true,
+      "bdNeedle#5": true,
+      "bdNeedle#6": true,
+      "bdNeedle#7": true,
+      "bdNeedle#8": true,
+      "bdNeedle#9": true
+    },
+    "bids_2026": {
+      "bids_2026#11": true
+    },
+    "gc": {
+      "gc#0": true,
+      "gc#1": true,
+      "gc#2": true,
+      "gc#5": true,
+      "gc#7": true,
+      "gc#8": true,
+      "gc#10": true,
+      "gc#3": true,
+      "gc#4": true,
+      "gc#6": true,
+      "gc#9": true,
+      "gc#11": true
+    }
+  },
+  "meta": {
+    "updated": "2026-08-10T19:35:35.873Z"
+  },
+  "undo": [
+    {
+      "type": "del",
+      "name": "gc",
+      "id": "gc#5",
+      "isNew": false,
+      "row": {
+        "job": "2606- LDS Rob Conference Room Refresh",
+        "cost": 260508,
+        "monthlyGC": 32652,
+        "contingency": 12000,
+        "contingencyPct": 0.0461,
+        "fee": 0.12,
+        "time": "2 Months",
+        "sf": "-",
+        "costPerSf": "-",
+        "avgBids": "-",
+        "constrType": "Interior Touch ups and conference room freshen ups",
+        "outcome": "Lost",
+        "gcsBidding": 4,
+        "notes": null,
+        "_id": "gc#5",
+        "_base": true
+      },
+      "label": "delete “2606- LDS Rob Conference Room Refresh”",
+      "ts": 1785183050490
+    },
+    {
+      "type": "del",
+      "name": "gc",
+      "id": "gc#7",
+      "isNew": false,
+      "row": {
+        "job": "2608- CCB SLTC Tour Pathway",
+        "cost": 1853791,
+        "monthlyGC": 9743,
+        "contingency": 0,
+        "contingencyPct": 0,
+        "fee": 0.06,
+        "time": "6 Months",
+        "sf": "-",
+        "costPerSf": "-",
+        "avgBids": "-",
+        "constrType": "Temp Path for Tour of temple grounds",
+        "outcome": "Lost",
+        "gcsBidding": 4,
+        "notes": "4-5% spread",
+        "_id": "gc#7",
+        "_base": true
+      },
+      "label": "delete “2608- CCB SLTC Tour Pathway”",
+      "ts": 1785183050688
+    },
+    {
+      "type": "del",
+      "name": "gc",
+      "id": "gc#8",
+      "isNew": false,
+      "row": {
+        "job": "2609- CCB Missionary Experience",
+        "cost": 715580,
+        "monthlyGC": 13553,
+        "contingency": 0,
+        "contingencyPct": 0,
+        "fee": 0.06,
+        "time": "4 Months",
+        "sf": "-",
+        "costPerSf": "-",
+        "avgBids": "-",
+        "constrType": "Part of 2027 Temple Open House",
+        "outcome": "Lost",
+        "gcsBidding": 4,
+        "notes": "4-5% Spread",
+        "_id": "gc#8",
+        "_base": true
+      },
+      "label": "delete “2609- CCB Missionary Experience”",
+      "ts": 1785183050921
+    },
+    {
+      "type": "del",
+      "name": "gc",
+      "id": "gc#10",
+      "isNew": false,
+      "row": {
+        "job": "2611- CCB Ticket Office Remodel",
+        "cost": 226986,
+        "monthlyGC": 7720,
+        "contingency": 7500,
+        "contingencyPct": 0.033,
+        "fee": 0.09,
+        "time": "1 Month",
+        "sf": 2512,
+        "costPerSf": 90.36,
+        "avgBids": 2.11,
+        "constrType": "Refresh of the ticket office and offices at conference center",
+        "outcome": "Won",
+        "gcsBidding": 2,
+        "notes": null,
+        "_id": "gc#10",
+        "_base": true
+      },
+      "label": "delete “2611- CCB Ticket Office Remodel”",
+      "ts": 1785183051070
+    },
+    {
+      "type": "del",
+      "name": "gc",
+      "id": "gc#new#1783973789556_92010",
+      "isNew": true,
+      "row": {
+        "_id": "gc#new#1783973789556_92010",
+        "_added": true,
+        "job": "2613- Toastique The Aster, UT",
+        "cost": 424660,
+        "monthlyGC": 24913,
+        "contingency": null,
+        "contingencyPct": 0.0259,
+        "fee": 0.1,
+        "time": "",
+        "sf": 1100,
+        "costPerSf": 386.05,
+        "avgBids": 1.45,
+        "constrType": "Restaurant / Food Service",
+        "outcome": "Pending",
+        "gcsBidding": 3,
+        "notes": ""
+      },
+      "label": "delete “2613- Toastique The Aster, UT”",
+      "ts": 1785183051208
+    },
+    {
+      "type": "del",
+      "name": "gc",
+      "id": "gc#new#1784647676853_378864",
+      "isNew": true,
+      "row": {
+        "_id": "gc#new#1784647676853_378864",
+        "_added": true,
+        "job": "Prime Insurance Asphalt Coating and Striping",
+        "cost": 29155,
+        "monthlyGC": null,
+        "contingency": null,
+        "contingencyPct": null,
+        "fee": null,
+        "time": "",
+        "sf": null,
+        "costPerSf": null,
+        "avgBids": null,
+        "constrType": "Other",
+        "outcome": "Won",
+        "gcsBidding": null,
+        "notes": "Jim Douglas Called about this. I'm putting together a number for him."
+      },
+      "label": "delete “Prime Insurance Asphalt Coating and Striping”",
+      "ts": 1785183051354
+    },
+    {
+      "type": "del",
+      "name": "gc",
+      "id": "gc#3",
+      "isNew": false,
+      "row": {
+        "job": "2604- LV Hospital Oxygen Storage",
+        "cost": 1140893,
+        "monthlyGC": 39706,
+        "contingency": 11000,
+        "contingencyPct": 0.0096,
+        "fee": 0.1,
+        "time": "4 Months",
+        "sf": "-",
+        "costPerSf": "-",
+        "avgBids": 1.62,
+        "constrType": "Oxygen Generator Tank Replacement",
+        "outcome": "Lost",
+        "gcsBidding": 3,
+        "notes": "Too big of a spread",
+        "_id": "gc#3",
+        "_base": true
+      },
+      "label": "delete “2604- LV Hospital Oxygen Storage”",
+      "ts": 1785183051452
+    },
+    {
+      "type": "del",
+      "name": "gc",
+      "id": "gc#4",
+      "isNew": false,
+      "row": {
+        "job": "2605- GWC Generator Backup",
+        "cost": 477010,
+        "monthlyGC": 19451,
+        "contingency": 8000,
+        "contingencyPct": 0.0168,
+        "fee": 0.1,
+        "time": "3 Months",
+        "sf": "-",
+        "costPerSf": "-",
+        "avgBids": 2.2,
+        "constrType": "Generator Replacement",
+        "outcome": "Lost",
+        "gcsBidding": 3,
+        "notes": "Layton won, was third out of four",
+        "_id": "gc#4",
+        "_base": true
+      },
+      "label": "delete “2605- GWC Generator Backup”",
+      "ts": 1785183051569
+    },
+    {
+      "type": "del",
+      "name": "gc",
+      "id": "gc#6",
+      "isNew": false,
+      "row": {
+        "job": "2607- LDS WSD Compressor Remodel",
+        "cost": 319919,
+        "monthlyGC": 23323,
+        "contingency": 19000,
+        "contingencyPct": 0.0594,
+        "fee": 0.15,
+        "time": "3.5 Months",
+        "sf": "-",
+        "costPerSf": "-",
+        "avgBids": "-",
+        "constrType": "Compressor Remodel",
+        "outcome": "Lost",
+        "gcsBidding": 4,
+        "notes": "We were way higher",
+        "_id": "gc#6",
+        "_base": true
+      },
+      "label": "delete “2607- LDS WSD Compressor Remodel”",
+      "ts": 1785183051688
+    },
+    {
+      "type": "del",
+      "name": "gc",
+      "id": "gc#9",
+      "isNew": false,
+      "row": {
+        "job": "2610- Nike Core & Shell Delivery Park City",
+        "cost": 837507,
+        "monthlyGC": 27835,
+        "contingency": 40000,
+        "contingencyPct": 0.0478,
+        "fee": 0.08,
+        "time": "4 Months",
+        "sf": 13770,
+        "costPerSf": 60.82,
+        "avgBids": 1.83,
+        "constrType": "Shell for Nike",
+        "outcome": "Lost",
+        "gcsBidding": 3,
+        "notes": null,
+        "_id": "gc#9",
+        "_base": true
+      },
+      "label": "delete “2610- Nike Core & Shell Delivery Park City”",
+      "ts": 1785183051775
+    },
+    {
+      "type": "del",
+      "name": "gc",
+      "id": "gc#11",
+      "isNew": false,
+      "row": {
+        "job": "2612- JSB Wheelchair Ramp ",
+        "cost": 185228,
+        "monthlyGC": 17663,
+        "contingency": null,
+        "contingencyPct": 0.0259,
+        "fee": 0.12,
+        "time": null,
+        "sf": null,
+        "costPerSf": null,
+        "avgBids": 1.75,
+        "constrType": null,
+        "outcome": "Lost",
+        "gcsBidding": 3,
+        "notes": null,
+        "_id": "gc#11",
+        "_base": true
+      },
+      "label": "delete “2612- JSB Wheelchair Ramp ”",
+      "ts": 1785183051852
+    },
+    {
+      "type": "del",
+      "name": "bids_2026",
+      "id": "bids_2026#new#1785183051775_622433",
+      "isNew": true,
+      "row": {
+        "_id": "bids_2026#new#1785183051775_622433",
+        "_added": true,
+        "project": "2610- Nike Core & Shell Delivery Park City",
+        "owner": "",
+        "projectType": "",
+        "type": "Hard Bid",
+        "date": "2026-07-27",
+        "amount": 837507,
+        "outcome": "Lost",
+        "notes": "",
+        "monthlyGC": 27835,
+        "feePct": 0.08,
+        "contingencyPct": 0.0478,
+        "sf": 13770,
+        "costPerSf": 60.82,
+        "avgBids": 1.83,
+        "gcsBidding": 3,
+        "duration": "4 Months",
+        "constrType": "Shell for Nike",
+        "debriefNotes": ""
+      },
+      "label": "delete “2610- Nike Core & Shell Delivery Park City”",
+      "ts": 1785183294239
+    },
+    {
+      "type": "del",
+      "name": "bids_2026",
+      "id": "bids_2026#new#1785183051852_542055",
+      "isNew": true,
+      "row": {
+        "_id": "bids_2026#new#1785183051852_542055",
+        "_added": true,
+        "project": "2612- JSB Wheelchair Ramp ",
+        "owner": "",
+        "projectType": "",
+        "type": "Hard Bid",
+        "date": "2026-07-27",
+        "amount": 185228,
+        "outcome": "Lost",
+        "notes": "",
+        "monthlyGC": 17663,
+        "feePct": 0.12,
+        "contingencyPct": 0.0259,
+        "sf": null,
+        "costPerSf": null,
+        "avgBids": 1.75,
+        "gcsBidding": 3,
+        "duration": "",
+        "constrType": "",
+        "debriefNotes": ""
+      },
+      "label": "delete “2612- JSB Wheelchair Ramp ”",
+      "ts": 1785183297678
+    },
+    {
+      "type": "del",
+      "name": "coverage",
+      "id": "coverage#new#1784647968400816180",
+      "isNew": true,
+      "row": {
+        "_id": "coverage#new#1784647968400816180",
+        "_added": true,
+        "project": "2613- Toastique Salt Lake City",
+        "div": 6,
+        "divName": "Wood, Plastics & Composites",
+        "invited": null,
+        "responded": null,
+        "scope": "",
+        "mandated": false,
+        "mandatedSub": "",
+        "notes": ""
+      },
+      "label": "delete “Div 6”",
+      "ts": 1785183572028
+    },
+    {
+      "type": "del",
+      "name": "coverage",
+      "id": "coverage#new#178464796840013996",
+      "isNew": true,
+      "row": {
+        "_id": "coverage#new#178464796840013996",
+        "_added": true,
+        "project": "2613- Toastique Salt Lake City",
+        "div": 5,
+        "divName": "Metals",
+        "invited": null,
+        "responded": null,
+        "scope": "",
+        "mandated": false,
+        "mandatedSub": "",
+        "notes": ""
+      },
+      "label": "delete “Div 5”",
+      "ts": 1785183573200
+    },
+    {
+      "type": "del",
+      "name": "wip",
+      "id": "wip#new#1785185042711_237971",
+      "isNew": true,
+      "row": {
+        "_id": "wip#new#1785185042711_237971",
+        "_added": true,
+        "project": "HAFB Brick Repair",
+        "projectNumber": "",
+        "origContract": 3603796,
+        "approvedCOs": 0,
+        "revisedContract": 3603796,
+        "paymentsReceived": 0,
+        "revisedCommitted": 3225397,
+        "paymentsToDate": 0,
+        "variance": null,
+        "pctUncommitted": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": null,
+        "notes": ""
+      },
+      "label": "delete “HAFB Brick Repair”",
+      "ts": 1785185725898
+    },
+    {
+      "type": "del",
+      "name": "wip",
+      "id": "wip#new#1785185042711_308133",
+      "isNew": true,
+      "row": {
+        "_id": "wip#new#1785185042711_308133",
+        "_added": true,
+        "project": "Kinkaid",
+        "projectNumber": "",
+        "origContract": 1130000,
+        "approvedCOs": 0,
+        "revisedContract": 1130000,
+        "paymentsReceived": 0,
+        "revisedCommitted": 1011350,
+        "paymentsToDate": 0,
+        "variance": null,
+        "pctUncommitted": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": null,
+        "notes": ""
+      },
+      "label": "delete “Kinkaid”",
+      "ts": 1785185730106
+    },
+    {
+      "type": "del",
+      "name": "wip",
+      "id": "wip#new#1785185042711_670802",
+      "isNew": true,
+      "row": {
+        "_id": "wip#new#1785185042711_670802",
+        "_added": true,
+        "project": "LDS WIFI Project",
+        "projectNumber": "",
+        "origContract": 2474005,
+        "approvedCOs": 0,
+        "revisedContract": 2474005,
+        "paymentsReceived": 0,
+        "revisedCommitted": 2214234,
+        "paymentsToDate": 0,
+        "variance": null,
+        "pctUncommitted": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": null,
+        "notes": ""
+      },
+      "label": "delete “LDS WIFI Project”",
+      "ts": 1785185733878
+    },
+    {
+      "type": "del",
+      "name": "wip",
+      "id": "wip#new#1784045249659_999522",
+      "isNew": true,
+      "row": {
+        "_id": "wip#new#1784045249659_999522",
+        "_added": true,
+        "project": "LDS HQF Campus WiFi Projects",
+        "projectNumber": "2509",
+        "origContract": 2474005,
+        "approvedCOs": 1187144.81,
+        "revisedContract": 3661149.81,
+        "paymentsReceived": 0,
+        "revisedCommitted": 2549156.77,
+        "paymentsToDate": 0,
+        "variance": 1111993.04,
+        "pctUncommitted": 30.37,
+        "rev2026": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "notes": "Imported from Procore"
+      },
+      "label": "delete “LDS HQF Campus WiFi Projects”",
+      "ts": 1785185746130
+    },
+    {
+      "type": "del",
+      "name": "wip",
+      "id": "wip#new#1785185042711_32577",
+      "isNew": true,
+      "row": {
+        "_id": "wip#new#1785185042711_32577",
+        "_added": true,
+        "project": "Motorsport",
+        "projectNumber": "",
+        "origContract": 3356143.42,
+        "approvedCOs": 0,
+        "revisedContract": 3356143.42,
+        "paymentsReceived": 0,
+        "revisedCommitted": 3003748,
+        "paymentsToDate": 0,
+        "variance": null,
+        "pctUncommitted": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": null,
+        "notes": ""
+      },
+      "label": "delete “Motorsport”",
+      "ts": 1785185753277
+    },
+    {
+      "type": "del",
+      "name": "wip",
+      "id": "wip#new#1785185766612_921136",
+      "isNew": true,
+      "row": {
+        "_id": "wip#new#1785185766612_921136",
+        "_added": true,
+        "project": "HAFB Brick Repair",
+        "projectNumber": "",
+        "origContract": 3603796,
+        "approvedCOs": 0,
+        "revisedContract": 3603796,
+        "paymentsReceived": 0,
+        "revisedCommitted": 3225397,
+        "paymentsToDate": 0,
+        "variance": null,
+        "pctUncommitted": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": null,
+        "notes": ""
+      },
+      "label": "delete “HAFB Brick Repair”",
+      "ts": 1785185774347
+    },
+    {
+      "type": "del",
+      "name": "wip",
+      "id": "wip#new#1785185766612_990449",
+      "isNew": true,
+      "row": {
+        "_id": "wip#new#1785185766612_990449",
+        "_added": true,
+        "project": "Kinkaid",
+        "projectNumber": "",
+        "origContract": 1130000,
+        "approvedCOs": 0,
+        "revisedContract": 1130000,
+        "paymentsReceived": 0,
+        "revisedCommitted": 1011350,
+        "paymentsToDate": 0,
+        "variance": null,
+        "pctUncommitted": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": null,
+        "notes": ""
+      },
+      "label": "delete “Kinkaid”",
+      "ts": 1785185774507
+    },
+    {
+      "type": "del",
+      "name": "wip",
+      "id": "wip#new#1785185766612_973936",
+      "isNew": true,
+      "row": {
+        "_id": "wip#new#1785185766612_973936",
+        "_added": true,
+        "project": "Motorsport",
+        "projectNumber": "",
+        "origContract": 3356143.42,
+        "approvedCOs": 0,
+        "revisedContract": 3356143.42,
+        "paymentsReceived": 0,
+        "revisedCommitted": 3003748,
+        "paymentsToDate": 0,
+        "variance": null,
+        "pctUncommitted": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": null,
+        "notes": ""
+      },
+      "label": "delete “Motorsport”",
+      "ts": 1785185774663
+    },
+    {
+      "type": "del",
+      "name": "wip",
+      "id": "wip#new#1785185766612_445292",
+      "isNew": true,
+      "row": {
+        "_id": "wip#new#1785185766612_445292",
+        "_added": true,
+        "project": "LDS WIFI Project",
+        "projectNumber": "",
+        "origContract": 2474005,
+        "approvedCOs": 0,
+        "revisedContract": 2474005,
+        "paymentsReceived": 0,
+        "revisedCommitted": 2214234,
+        "paymentsToDate": 0,
+        "variance": null,
+        "pctUncommitted": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": null,
+        "notes": ""
+      },
+      "label": "delete “LDS WIFI Project”",
+      "ts": 1785185774781
+    },
+    {
+      "type": "del",
+      "name": "wip",
+      "id": "wip#new#1785185786054_207992",
+      "isNew": true,
+      "row": {
+        "_id": "wip#new#1785185786054_207992",
+        "_added": true,
+        "project": "HAFB Brick Repair",
+        "projectNumber": "",
+        "origContract": 3603796,
+        "approvedCOs": 0,
+        "revisedContract": 3603796,
+        "paymentsReceived": 0,
+        "revisedCommitted": 3225397,
+        "paymentsToDate": 0,
+        "variance": null,
+        "pctUncommitted": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": null,
+        "notes": ""
+      },
+      "label": "delete “HAFB Brick Repair”",
+      "ts": 1785185793640
+    },
+    {
+      "type": "del",
+      "name": "wip",
+      "id": "wip#new#1785185786054_548951",
+      "isNew": true,
+      "row": {
+        "_id": "wip#new#1785185786054_548951",
+        "_added": true,
+        "project": "Kinkaid",
+        "projectNumber": "",
+        "origContract": 1130000,
+        "approvedCOs": 0,
+        "revisedContract": 1130000,
+        "paymentsReceived": 0,
+        "revisedCommitted": 1011350,
+        "paymentsToDate": 0,
+        "variance": null,
+        "pctUncommitted": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": null,
+        "notes": ""
+      },
+      "label": "delete “Kinkaid”",
+      "ts": 1785185798226
+    },
+    {
+      "type": "del",
+      "name": "wip",
+      "id": "wip#new#1785185786054_535201",
+      "isNew": true,
+      "row": {
+        "_id": "wip#new#1785185786054_535201",
+        "_added": true,
+        "project": "Motorsport",
+        "projectNumber": "",
+        "origContract": 3356143.42,
+        "approvedCOs": 0,
+        "revisedContract": 3356143.42,
+        "paymentsReceived": 0,
+        "revisedCommitted": 3003748,
+        "paymentsToDate": 0,
+        "variance": null,
+        "pctUncommitted": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": null,
+        "notes": ""
+      },
+      "label": "delete “Motorsport”",
+      "ts": 1785185801840
+    },
+    {
+      "type": "del",
+      "name": "wip",
+      "id": "wip#new#1785185042711_336230",
+      "isNew": true,
+      "row": {
+        "_id": "wip#new#1785185042711_336230",
+        "_added": true,
+        "project": "LDS WIFI Project Phases 2-4. PR's 1-3",
+        "projectNumber": "2509",
+        "origContract": 995586,
+        "approvedCOs": 0,
+        "revisedContract": 995586,
+        "paymentsReceived": 0,
+        "revisedCommitted": 891049,
+        "paymentsToDate": 0,
+        "variance": 1111993.04,
+        "pctUncommitted": 30.37,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "rev2026": null,
+        "notes": "Imported from Procore"
+      },
+      "label": "delete “LDS WIFI Project Phases 2-4. PR's 1-3”",
+      "ts": 1785185818957
+    },
+    {
+      "type": "del",
+      "name": "wip",
+      "id": "wip#new#1784045249659_471072",
+      "isNew": true,
+      "row": {
+        "_id": "wip#new#1784045249659_471072",
+        "_added": true,
+        "project": "2435- Bountiful City Restaurant",
+        "projectNumber": "2406",
+        "origContract": 1504008.24,
+        "approvedCOs": 8449.52,
+        "revisedContract": 1512457.76,
+        "paymentsReceived": 0,
+        "revisedCommitted": 951847.28,
+        "paymentsToDate": 0,
+        "variance": 560610.48,
+        "pctUncommitted": 37.07,
+        "rev2026": null,
+        "estFee": null,
+        "estMargin": null,
+        "finalFee": null,
+        "finalMargin": null,
+        "notes": "Imported from Procore"
+      },
+      "label": "delete “2435- Bountiful City Restaurant”",
+      "ts": 1785185839886
+    },
+    {
+      "type": "del",
+      "name": "partners",
+      "id": "partners#474",
+      "isNew": false,
+      "row": {
+        "subId": "SUB-1475",
+        "company": "A-Johnson Heating, Inc",
+        "div": 23,
+        "divName": "HVAC",
+        "status": "Active",
+        "trade": "HVAC / Mechanical",
+        "city": "Price",
+        "state": "Utah",
+        "kind": "Trade",
+        "scopes": [
+          {
+            "div": 23,
+            "trade": "HVAC / Mechanical"
+          }
+        ],
+        "_id": "partners#474",
+        "_base": true
+      },
+      "label": "delete “A-Johnson Heating, Inc”",
+      "ts": 1786027526183
+    },
+    {
+      "type": "del",
+      "name": "partners",
+      "id": "partners#1143",
+      "isNew": false,
+      "row": {
+        "subId": "SUB-2145",
+        "company": "Big-D Construction",
+        "div": 0,
+        "divName": "Unclassified — review",
+        "trade": "General Contractor",
+        "city": "",
+        "status": "Prospect",
+        "reviews": [],
+        "kind": "General Contractor",
+        "scopes": [
+          {
+            "div": 0,
+            "trade": "General Contractor"
+          }
+        ],
+        "lastContact": "",
+        "notes": "Competitor GC — Utah market",
+        "_id": "partners#1143",
+        "_base": true
+      },
+      "label": "delete “Big-D Construction”",
+      "ts": 1786027570904
+    },
+    {
+      "type": "del",
+      "name": "partners",
+      "id": "partners#537",
+      "isNew": false,
+      "row": {
+        "subId": "SUB-1538",
+        "company": "Big Rock Electric",
+        "div": 26,
+        "divName": "Electrical",
+        "status": "Active",
+        "trade": "Electrical",
+        "city": "West Jordan",
+        "state": "Utah",
+        "kind": "Trade",
+        "scopes": [
+          {
+            "div": 26,
+            "trade": "Electrical"
+          }
+        ],
+        "_id": "partners#537",
+        "_base": true
+      },
+      "label": "delete “Big Rock Electric”",
+      "ts": 1786027576619
+    },
+    {
+      "type": "del",
+      "name": "partners",
+      "id": "partners#724",
+      "isNew": false,
+      "row": {
+        "subId": "SUB-1725",
+        "company": "Binary Tech",
+        "div": 0,
+        "divName": "Unclassified — set division",
+        "status": "Active",
+        "city": "Eagle Mountain",
+        "state": "Utah",
+        "kind": "Unclassified",
+        "scopes": [
+          {
+            "div": 0,
+            "trade": ""
+          }
+        ],
+        "_id": "partners#724",
+        "_base": true
+      },
+      "label": "delete “Binary Tech”",
+      "ts": 1786027582368
+    },
+    {
+      "type": "del",
+      "name": "partners",
+      "id": "partners#646",
+      "isNew": false,
+      "row": {
+        "subId": "SUB-1647",
+        "company": "Big Red Asphalt",
+        "div": 32,
+        "divName": "Exterior Improvements",
+        "status": "Active",
+        "trade": "Exterior Improvements",
+        "state": "Utah",
+        "kind": "Trade",
+        "scopes": [
+          {
+            "div": 32,
+            "trade": "Exterior Improvements"
+          }
+        ],
+        "_id": "partners#646",
+        "_base": true
+      },
+      "label": "delete “Big Red Asphalt”",
+      "ts": 1786027589395
+    },
+    {
+      "type": "del",
+      "name": "partners",
+      "id": "partners#723",
+      "isNew": false,
+      "row": {
+        "subId": "SUB-1724",
+        "company": "BHS Rockers",
+        "div": 0,
+        "divName": "Unclassified — set division",
+        "status": "Active",
+        "city": "Salt Lake City",
+        "state": "Utah",
+        "kind": "Unclassified",
+        "scopes": [
+          {
+            "div": 0,
+            "trade": ""
+          }
+        ],
+        "_id": "partners#723",
+        "_base": true
+      },
+      "label": "delete “BHS Rockers”",
+      "ts": 1786027594958
+    },
+    {
+      "type": "del",
+      "name": "active",
+      "id": "active#new#17851801948548863",
+      "isNew": true,
+      "row": {
+        "_id": "active#new#17851801948548863",
+        "_added": true,
+        "project": "LDS Gateway Condos Unit 6A-7A interior Remodel",
+        "section": "submitted",
+        "bidNo": "",
+        "date": "2026-07-27",
+        "due": "2026-08-04",
+        "status": "Submitted",
+        "duration": "3 Months",
+        "nextStep": "Continue getting bid coverage",
+        "budget": 750000,
+        "submitted": 492718,
+        "gcsBidding": 4,
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "projectType": "Religious",
+        "assignee": "Jamo"
+      },
+      "label": "delete “LDS Gateway Condos Unit 6A-7A interior Remodel · Submitted”",
+      "ts": 1786390217317
+    },
+    {
+      "type": "del",
+      "name": "bids_2026",
+      "id": "bids_2026#new#1786390217317_488878",
+      "isNew": true,
+      "row": {
+        "_id": "bids_2026#new#1786390217317_488878",
+        "_added": true,
+        "project": "LDS Gateway Condos Unit 6A-7A interior Remodel",
+        "owner": "Church of Jesus Christ of Latter-Day Saints",
+        "projectType": "Religious",
+        "type": "",
+        "date": "2026-08-04",
+        "amount": 492718,
+        "outcome": "Lost",
+        "notes": "Continue getting bid coverage",
+        "debriefReason": "Price — we were high",
+        "competitor": "",
+        "winningAmount": null,
+        "debriefNotes": "",
+        "debriefDate": "2026-08-10"
+      },
+      "label": "delete “LDS Gateway Condos Unit 6A-7A interior Remodel”",
+      "ts": 1786390453849
+    },
+    {
+      "type": "order",
+      "name": "bids_2026",
+      "prev": [
+        "bids_2026#0",
+        "bids_2026#1",
+        "bids_2026#2",
+        "bids_2026#3",
+        "bids_2026#4",
+        "bids_2026#5",
+        "bids_2026#6",
+        "bids_2026#7",
+        "bids_2026#8",
+        "bids_2026#9",
+        "bids_2026#10",
+        "bids_2026#new#1784647314552_795894",
+        "bids_2026#new#17836362062608866",
+        "bids_2026#new#1784647571262_572891",
+        "bids_2026#new#17858724107103694"
+      ],
+      "label": "reorder bids",
+      "ts": 1786390524154
+    },
+    {
+      "type": "order",
+      "name": "bids_2026",
+      "prev": [
+        "bids_2026#0",
+        "bids_2026#1",
+        "bids_2026#2",
+        "bids_2026#3",
+        "bids_2026#4",
+        "bids_2026#5",
+        "bids_2026#6",
+        "bids_2026#7",
+        "bids_2026#8",
+        "bids_2026#9",
+        "bids_2026#10",
+        "bids_2026#new#1784647314552_795894",
+        "bids_2026#new#17836362062608866",
+        "bids_2026#new#17858724107103694",
+        "bids_2026#new#1784647571262_572891"
+      ],
+      "label": "reorder bids",
+      "ts": 1786390529505
+    },
+    {
+      "type": "order",
+      "name": "bids_2026",
+      "prev": [
+        "bids_2026#0",
+        "bids_2026#1",
+        "bids_2026#2",
+        "bids_2026#3",
+        "bids_2026#4",
+        "bids_2026#5",
+        "bids_2026#6",
+        "bids_2026#7",
+        "bids_2026#8",
+        "bids_2026#9",
+        "bids_2026#10",
+        "bids_2026#new#1784647314552_795894",
+        "bids_2026#new#17836362062608866",
+        "bids_2026#new#1784647571262_572891",
+        "bids_2026#new#17858724107103694"
+      ],
+      "label": "reorder bids",
+      "ts": 1786390535873
+    }
+  ],
+  "notSame": {
+    "lds church hqf wifi||lds hqf ccb events suite refresh": true,
+    "hafb brick repair 2 buildings||hafb brick wall concrete walkway repair": true
+  }
+}
