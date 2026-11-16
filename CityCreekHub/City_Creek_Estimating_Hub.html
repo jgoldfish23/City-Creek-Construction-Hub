@@ -2030,7 +2030,7 @@ function tbMeta(){ const s=computeYearStats('2026');
 
 /* =================== DERIVED STATS =================== */
 function computeYearStats(year){ const name='bids_'+year;
-  if(!colEdited(name)) return Object.assign({},DATA.annual[year],{_official:true});
+  if(!colEdited(name)) return Object.assign({won:0,lost:0,jobsBid:0},DATA.annual[year],{_official:true});
   const b=rows(name); const c={Won:0,Lost:0,Other:0,'Not Pursued':0,Pending:0}; let wonAmt=0,lostAmt=0,totalBid=0,nAmt=0;
   b.forEach(x=>{ if(c[x.outcome]!=null)c[x.outcome]++; if(isNum(x.amount)){totalBid+=x.amount;nAmt++; if(x.outcome==='Won')wonAmt+=x.amount; if(x.outcome==='Lost')lostAmt+=x.amount;} });
   const den=c.Won+c.Lost;
